@@ -65,11 +65,6 @@ Active contributor to **[Gimbalabs](https://github.com/gimbalabs)**, creating ed
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-watts-9a7145269/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wattsmainsanglais)
 
-## 📊 GitHub Stats
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=wattsmainsanglais&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wattsmainsanglais&layout=compact&theme=radical)
 
 ## 🌟 Featured Projects
 
