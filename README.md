@@ -1,10 +1,9 @@
 # Hi, I'm Andrew Watts 👋
 
-Full stack web developer specializing in TypeScript, React, Next.js, and Cardano blockchain development. Based in South West France, working remotely on decentralized education platforms and blockchain learning materials.
+Full stack engineer with a Go/PostgreSQL backend focus — building ecommerce platforms, SaaS products, and admin dashboards for clients across Europe. Also contributing to decentralised education platforms at Andamio and Gimbalabs. Available for remote work.
 
 ## 🚀 About Me
 
-- 🌍 Located in Poitiers, South West France
 - 💼 3 years of professional coding experience
 - 🗣️ Bilingual: English (native) & French (professional)
 - 🌱 Contributing to decentralized education and blockchain development
